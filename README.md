@@ -6,14 +6,14 @@ A Beginner-Friendly Python port scanner built to understand Networking, sockets,
 PortSniffer scans a range of TCP ports on a target IP or hostname and reports which ports are open. It is designed for beginners to learn basic networking and cybersecurity concepts using Python’s built-in socket library.
 
 ## Usage
-1.Clone or download the repository.
+1. Clone or download the repository.
 
-2.Open a terminal in the project folder.
+2. Open a terminal in the project folder.
 
-3.Run the script:
+3. Run the script:
 `python3 port_sniffer.py`
 
-4.Enter a target IP address or hostname when prompted.
+4. Enter a target IP address or hostname when prompted.
 Example: `Enter target IP or hostname: 127.0.0.1`
 
 
