@@ -2,6 +2,11 @@
 A Beginner-Friendly Python port scanner built to understand Networking, sockets, and cybersecurity concepts.
 
 
+## Description
+PortSniffer scans a range of TCP ports on a target IP or hostname and reports which ports are open. It is designed for beginners to learn basic networking and cybersecurity concepts using Python’s built-in socket library.
+
+
+
 ## To Come
 Custom Port Range (Select what ports to search!)
 
