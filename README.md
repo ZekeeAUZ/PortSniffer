@@ -21,7 +21,7 @@ Example: `Enter target IP or hostname: 127.0.0.1`
  [+] Port 631 is OPEN`
 
 
-## To Come
+## Planned Features
 Custom Port Range (Select what ports to search!)
 
 Scan Time Measurment! (Measure how long it takes to finish the scan!)
