@@ -21,12 +21,6 @@ Example: `Enter target IP or hostname: 127.0.0.1`
  [+] Port 631 is OPEN`
 
 
-
-
-
-
-
-
 ## To Come
 Custom Port Range (Select what ports to search!)
 
@@ -37,3 +31,7 @@ Error Handling for bad input! (Display error is USer inputs incorrectly)
 Save Results to a File! (Save port scans to a custom .txt file!)
 
 Count open ports (Display the amount of open ports)
+
+## Disclaimer
+⚠️ Educational Use Only
+Only scan systems you own or have explicit permission to test. Unauthorized scanning may be illegal.
