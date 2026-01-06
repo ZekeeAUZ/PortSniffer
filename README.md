@@ -12,6 +12,7 @@ PortSniffer scans a range of TCP ports on a target IP or hostname and reports wh
 
 3.Run the script:
 `python3 port_sniffer.py`
+
 4.Enter a target IP address or hostname when prompted.
 Example: `Enter target IP or hostname: 127.0.0.1`
 
