@@ -16,6 +16,9 @@ PortSniffer scans a range of TCP ports on a target IP or hostname and reports wh
 4. Enter a target IP address or hostname when prompted.
 Example: `Enter target IP or hostname: 127.0.0.1`
 
+5. Example Output 
+`[+] Port 80 is OPEN
+ [+] Port 631 is OPEN`
 
 
 
